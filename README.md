@@ -1,2 +1,2 @@
-# stop-wtach
+# stop watch
 Author: Hasibur Rahman Siam
